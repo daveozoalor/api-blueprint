@@ -99,21 +99,16 @@ If you are interested in building tools for API Blueprint check out the
 Feel free report problems or propose new ideas using the API Blueprint GitHub
 [issues][].
 
-We use an RFC process for proposing any substantial changes to the API
-Blueprint language, specification and/or parsers.
 
-If you would like to propose a change, please consult our
-[RFC process][rfc].
+If you would like to propose a change, please contact me daveozoalor@gmail.com 
 
 [issues]: https://github.com/apiaryio/api-blueprint/issues
 [rfc]: https://github.com/apiaryio/api-blueprint-rfcs
 
 ## Get in Touch
-- [@apiblueprint](https://twitter.com/apiblueprint)
-- [Slack](https://apiblueprint-slack.herokuapp.com/)
-- [Stack Overflow](http://stackoverflow.com/questions/tagged/apiblueprint)
+- [@daveozoalor](https://apiblueprint-slack.herokuapp.com/)
 - [GitHub Issues][issues]
 
 ## License
-MIT License. See the [LICENSE](https://github.com/apiaryio/api-blueprint/blob/master/LICENSE)
+MIT License. 
 file.
